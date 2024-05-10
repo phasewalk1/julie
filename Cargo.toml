@@ -1,10 +1,10 @@
 [package]
-name = "juli"
+name = "julie"
 version = "0.1.0"
 edition = "2021"
 
 [lib]
-name = "juli"
+name = "julie"
 path = "src/lib.rs"
 
 [dependencies]
